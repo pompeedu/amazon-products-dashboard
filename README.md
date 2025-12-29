@@ -1,6 +1,6 @@
 ## Дашборд товаров Amazon
 Интерактивный дашборд для анализа товаров Amazon: цены, рейтинги, скидки, популярность и ключевые бизнес-инсайты. Построен на **Streamlit**, **Pandas**, **Plotly**.
-Ссылка на дашборд: [pompeedu-amazon-items-dashboard](pompeedu-amazon-items-dashboard.streamlit.app)
+Ссылка на дашборд: [pompeedu-amazon-items-dashboard](https://pompeedu-amazon-items-dashboard.streamlit.app)
 
 ---
 
